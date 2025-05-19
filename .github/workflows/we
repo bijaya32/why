@@ -1,0 +1,96 @@
+html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About Me - Bijaya</title>
+  <style>
+    body {
+      font-family: 'Courier New', Courier, monospace;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #121212;
+      color: #00ff00;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    h1 {
+      margin-bottom: 5px;
+      font-size: 2.5em;
+    }
+    section {
+      margin-bottom: 25px;
+    }
+    h2 {
+      border-bottom: 2px solid #00ff00;
+      padding-bottom: 5px;
+      font-size: 1.5em;
+    }
+    ul {
+      list-style: inside square;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #007700;
+      margin-top: 40px;
+    }
+    a {
+      color: #00ff00;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bijaya</h1>
+    <p>Hacker & Web Designer</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hello! I’m <strong>Bijaya</strong>, a passionate hacker and web designer. I love exploring cybersecurity and creating sleek websites.</p>
+  </section>
+
+  <section>
+    <h2>Hobbies</h2>
+    <ul>
+      <li>Inventing new things</li>
+      <li>Working on projects like P2P wireless communication</li>
+      <li>Programming in Python</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Skills</h2>
+    <ul>
+      <li>Penetration testing</li>
+      <li>HTML, CSS, JavaScript</li>
+      <li>UI/UX design</li>
+      <li>Network security</li>
+      <li>Python programming</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li>Wireless P2P Communication System</li>
+      <li>Various Python automation scripts and tools</li>
+      <li>Other innovative tech projects</li>
+    </ul>
+  </section>
+
+  <section>
+    
+
+  <footer>
+    &copy; 2025 Bijaya
+  </footer>
+</body>
+</html>
